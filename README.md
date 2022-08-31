@@ -1,1 +1,2 @@
-My first readme
+My pre_course repo
+ALX challenging but fun
